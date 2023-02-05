@@ -501,6 +501,7 @@ form {
 .product-card-price-old {
     text-decoration: line-through 1px;
 }
+
 /* FOOTER */
 .adress {
     background-color: #f4f7f6;
@@ -510,27 +511,32 @@ form {
     justify-content: center;
     align-items: center;
     margin: 43px 0 50px;
-     
+
 }
+
 .social-icon {
     background-repeat: no-repeat;
     width: 20px;
     height: 20px;
     display: block;
-    }
+}
+
 .social-icon-list {
     display: flex;
-    
 
-  }
+
+}
+
 .social-icon-link-dribbble {
     background-image: url('../svg/001-dribbble.svg');
-  }
+}
+
 .social-icon-link-pinterest {
     background-image: url('../svg/001-pinterest.svg');
     margin-right: 30px;
     margin-left: 30px;
 }
+
 .social-icon-link-tumblr {
     background-image: url('../svg/003-tumblr.svg');
 }
