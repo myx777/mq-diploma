@@ -446,7 +446,7 @@ form {
 }
 
 .product-img {
-    max-width: 100%;
+    width: 100%;
     margin-bottom: 26px;
     padding: 0 23px;
 }
