@@ -241,7 +241,7 @@ h2 {
 }
 
 .card-picture {
-  max-width: 100%;
+  width: 100%;
   object-fit: cover;
 }
 
@@ -848,7 +848,7 @@ form {
   }
 
   .card-picture {
-    max-width: 378px;
+    width: 378px;
     margin-right: 32px;
   }
 
