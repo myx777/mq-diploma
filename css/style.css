@@ -581,12 +581,12 @@ form {
 }
 
 .feedback-field {
+  -webkit-appearance: none;
+  -moz-appearance: none;
   background-image: url("../svg/form-arrows.svg");
   background-repeat: no-repeat;
   background-position: right 5px center;
   background-size: 0.7em;
-  -webkit-appearance: none;
-  -moz-appearance: none;
   margin-top: 5px;
   margin-bottom: 15px;
 }
@@ -823,6 +823,9 @@ form {
     justify-content: space-between;
     margin-bottom: 64px;
     flex-wrap: nowrap;
+  }
+  .trends-odd {
+    margin-left: 1px;
   }
 
   .aside-title-trends {
